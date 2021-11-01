@@ -1,1 +1,3 @@
-# PandasPractice_CovidDataset
+# Pandas Practice
+
+## Covid Dataset Analysis
